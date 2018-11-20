@@ -11,10 +11,10 @@ Seperate repositories will be created later to support chatting via:
 * [ ] Unity3D JSON based Client
 
 ### Install:
-npm install
+    npm install
 
 ### Run Development:
-npm start
+    npm start
 
 ### Run Production
-[ ] TODO
+Not yet developed.
