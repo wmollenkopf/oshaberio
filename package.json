@@ -1,0 +1,23 @@
+{
+  "name": "webchatty",
+  "version": "1.0.0",
+  "description": "An online RTC web chat application.",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmollenkopf/webchatty.git"
+  },
+  "author": "William Mollenkopf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmollenkopf/webchatty/issues"
+  },
+  "homepage": "https://github.com/wmollenkopf/webchatty#readme"
+}
