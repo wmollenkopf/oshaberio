@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/wmollenkopf/webchatty.svg?branch=master)](https://travis-ci.com/wmollenkopf/webchatty)
 # webchatty
 An online websocket based chat application.
 
