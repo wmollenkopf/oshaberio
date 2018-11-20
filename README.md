@@ -9,3 +9,12 @@ Seperate repositories will be created later to support chatting via:
 * [ ] ReactJS/NodeJS Client
 * [ ] Vue/NodeJS Client
 * [ ] Unity3D JSON based Client
+
+### Install:
+npm install
+
+### Run Development:
+npm start
+
+### Run Production
+[ ] TODO
